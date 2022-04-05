@@ -43,7 +43,7 @@ async function httpAbortLaunch(id) {
       ok: false,
     }
   }
-}
+};
 
 export {
   httpGetPlanets,

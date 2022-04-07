@@ -20,7 +20,7 @@ describe(' Launches API', () => {
     })
   })
   
-  describe('Test POST /launc', () => {  
+  describe('Test POST /launch', () => {  
     const completeLaunchData = {
       mission: 'USS Enterprise',
       rocket: 'NCC 1701-D',
